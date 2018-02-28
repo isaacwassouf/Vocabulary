@@ -28,7 +28,7 @@
         android:paddingLeft="20dp"
         android:paddingTop="5dp"
         android:text="->"
-        android:textSize="18sp"
+        android:textSize="24sp"
         app:layout_constraintEnd_toStartOf="@+id/textView3"
         app:layout_constraintTop_toTopOf="parent" />
 
