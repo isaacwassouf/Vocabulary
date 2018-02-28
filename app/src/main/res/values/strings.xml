@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Vocabulary</string>
+    <string name="add">Add a Vocabulary</string>
+    <string name="delete">Delete a Vocabulary</string>
+    <string name="show">Show all Vocabulary</string>
+</resources>
