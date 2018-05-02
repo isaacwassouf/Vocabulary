@@ -31,6 +31,8 @@
         android:paddingRight="0dp"
         android:paddingTop="5dp"
         android:text="->"
+        android:textColor="@android:color/background_light"
+        android:background="@android:color/holo_blue_light"
         android:textSize="24sp"
         app:layout_constraintEnd_toStartOf="@+id/textView3"
         app:layout_constraintTop_toTopOf="parent"
